@@ -12,7 +12,7 @@
 ## 🔭 About Me
 Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេហ៍)**, a passionate computer science student diving deep into **Laravel** and modern web development. I love building clean, performant web apps and continuously leveling up my front-end & back-end skills.
 
-## 🛠️ Tech Stack
+## 🛠️ Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
