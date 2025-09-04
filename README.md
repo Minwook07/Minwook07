@@ -1,10 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Minwook07" alt="Typing SVG" /></a>
 
 <!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=👋+Hi%2C+I%E2%80%99m+Minwook+07;🔥+Laravel+Developer+in+Training" alt="Typing SVG" />
-</a>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Minwook07&color=blue" alt="Profile views" />  
   <img src="https://img.shields.io/badge/Laravel-v10-orange?logo=laravel&logoColor=white" alt="Laravel" />  
@@ -34,22 +30,21 @@ Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេ�
 ## 🌱 Currently Learning
 - Deep dive into **Laravel 10**: Eloquent, Blade, Livewire  
 - Advanced **RESTful API** design  
-- Modern **Vue 3** & **React.js** fundamentals  
+- Modern **Vue 3** & **React.js** & **Next.js** fundamentals  
 
 ## 💞️ I’m Open To Collaborate On
 - Laravel-powered web apps  
-- Front-end UI components with Vue/React  
+- Front-end UI components with Vue/React/Next  
 - Full-stack side projects & open-source libraries  
 
 ## 📫 How to Reach Me
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/Minwook07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Minwook07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:mith.chett@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mith-chet-ab56b5295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 😄 Pronouns
-He / Him
+បងស្អាត / He / Him
 
 ## ⚡ Fun Fact
 I love turning ☕ into code and exploring the world of **digital art** in my free time!
@@ -58,7 +53,6 @@ I love turning ☕ into code and exploring the world of **digital art** in my fr
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minwook07&show_icons=true&theme=radical" alt="Minwook's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwook07&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
