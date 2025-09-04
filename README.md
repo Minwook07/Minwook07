@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript" />  
 </p>
 
----
-
 ## 🔭 About Me
 Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេហ៍)**, a passionate computer science student diving deep into **Laravel** and modern web development. I love building clean, performant web apps and continuously leveling up my front-end & back-end skills.
 
