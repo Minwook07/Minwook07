@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript" />  
 </p>
 
-🔭 About Me:
+## 🔭 About Me
 Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេហ៍)**, a passionate computer science student diving deep into **Laravel** and modern web development. I love building clean, performant web apps and continuously leveling up my front-end & back-end skills.
 
 ## 🛠️ Tech Stack
@@ -47,10 +47,8 @@ Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេ�
 ## ⚡ Fun Fact
 I love turning ☕ into code and exploring the world of **digital art** in my free time!
 
----
-
 <!-- GitHub Stats -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwook07&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
