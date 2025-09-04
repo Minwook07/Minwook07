@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Vue.js-v3-brightgreen?logo=vue.js&logoColor=white" alt="Vue.js" />  
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript" />  
 </p>
+<!-- GitHub Stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwook07&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ## 🔭 About Me
 Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេហ៍)**, a passionate computer science student diving deep into **Laravel** and modern web development. I love building clean, performant web apps and continuously leveling up my front-end & back-end skills.
@@ -46,13 +50,6 @@ Hello! I’m **Minwook 07 (ប្រុសចិតស្មោះស្នេ�
 
 ## ⚡ Fun Fact
 I love turning ☕ into code and exploring the world of **digital art** in my free time!
-
-<!-- GitHub Stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwook07&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-
 <!---
 Minwook07/Minwook07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
