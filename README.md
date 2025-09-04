@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Minwook07" alt="Typing SVG" /></a>
 
 <!-- Animated Typing Intro -->
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Minwook07&color=blue" alt="Profile views" />  
   <img src="https://img.shields.io/badge/Laravel-v10-orange?logo=laravel&logoColor=white" alt="Laravel" />  
   <img src="https://img.shields.io/badge/PHP-v8.1-blue?logo=php&logoColor=white" alt="PHP" />  
