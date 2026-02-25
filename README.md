@@ -1,32 +1,83 @@
-<h1 align="center">여러분, 안녕하세요👋, 저는 Chet (Wu Chen) 입니다.</h1>
-<h3 align="center">A passionate frontend developer and backend developer from ភពផែនដី.</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=王子豪%20%7C%20Wu%20Chen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Chet%20·%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
 
-<h3 align="left">My Info:</h3>
+안녕하세요 👋 &nbsp;|&nbsp; 你好 &nbsp;|&nbsp; Hello
 
-- 🔭 I’m currently working on **KASSAR API, MPTC API, ANT API, MPTC FARMIS**
+<br/>
 
-- 🌱 I’m currently learning **Next.js, React.js!**
-
-- 👨‍💻 All of my projects are available at [https://chet-portfolio.vercel.app/](https://chet-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [Instagram](Instagram)
-
-- 💬 Ask me about: **Vue.js, Laravel!**
-
-- 📫 How to reach me:
-  <p>
-    <a href="mailto:mith.chett@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/mith-chet-ab56b5295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-
-- ⚡ Fun fact: **I'm ghost teller**
-
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
+<div align="center">
   
-- 🐯 ជានិស្យ័យបណ្តាលឱ្យយើងជួបគ្នា!
-</p>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-E60026?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chet-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mith-chet-ab56b5295/)
+  [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 
-<h3 align="left">Default:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minwook07&show_icons=true&locale=en&layout=compact" alt="minwook07" /></p>
+</div>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8A951&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Vue.js+%26+Laravel+Enthusiast+%E2%9C%A8;Next.js+%26+React+Learner+%F0%9F%8C%B1;Ghost+Teller+%F0%9F%91%BB)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+<h3><strong>关于我 · About Me</strong></h3>
+
+[![Quote](https://img.shields.io/badge/❝%20千里之行，始于足下%20❞-informational?style=for-the-badge&labelColor=1a1a2e&color=C8A951&logoColor=white)](#)
+
+*"A journey of a thousand miles begins with a single step."* — **Lao Tzu**
+
+</div>
+
+<br/>
+
+```typescript
+const Chet = {
+  name:        "Wu Chen (王子豪)",
+  alias:       "Chet",
+  origin:      "ភពផែនដី",
+  role:        "Full-Stack Developer",
+
+  currentWork: [
+    "KASSAR API", "MPTC API",
+    "ANT API",    "MPTC FARMIS"
+  ],
+
+  learning:    ["Next.js", "React.js"],
+  expertise:   ["Vue.js ", "Laravel"],
+
+  funFact:     "I'm a ghost teller",
+  quote:       "ជានិស្យ័យបណ្តាលឱ្យយើងជួបគ្នា!",
+};
+```
+
+<br/>
+
+<!-- Decorative Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+<br/>
+
+<div align="center">
+  <h3><strong>技术栈 · Tech Stack</strong></h3>
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,php,mysql,git&theme=dark&perline=8" alt="Skills"/>
+</div>
+
+<div align="center">
+  <h3><strong>结语 · Final Words</strong></h3>
+
+> *ជានិស្សិតបណ្ដាលឱ្យយើងជួបគ្នា!*  
+> *Let's connect, collaborate, and create something extraordinary together!*  
+> *代码改变世界 · Code changes the world*
+
+<br/>
+
+<img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100" alt="loading"/>
+
+### Thanks for visiting!
+
+</div>
