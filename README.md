@@ -14,7 +14,7 @@
 </div>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8A951&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Vue.js+%26+Laravel+Enthusiast+%E2%9C%A8;Next.js+%26+React+Learner+%F0%9F%8C%B1;Ghost+Teller+%F0%9F%91%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8A951&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Vue.js+%26+Laravel+Enthusiast;Next.js+%26+React+Learner;Ghost+Teller)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
