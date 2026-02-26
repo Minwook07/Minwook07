@@ -70,14 +70,12 @@ const Chet = {
 <div align="center">
   <h3><strong>结语 · Final Words</strong></h3>
 
-> *ជានិស្សិតបណ្ដាលឱ្យយើងជួបគ្នា!*  
+> *ជានិស្សិយបណ្ដាលឱ្យយើងជួបគ្នា!*  
 > *Let's connect, collaborate, and create something extraordinary together!*  
 > *代码改变世界 · Code changes the world*
 
 <br/>
 
 <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100" alt="loading"/>
-
-### Thanks for visiting!
 
 </div>
