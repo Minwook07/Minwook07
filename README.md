@@ -70,9 +70,9 @@ const Chet = {
 <div align="center">
   <h3><strong>结语 · Final Words</strong></h3>
 
-> *ជានិស្សិយបណ្ដាលឱ្យយើងជួបគ្នា!*  
+> *ជានិស្ស័យបណ្ដាលឱ្យយើងជួបគ្នា!*  
 > *Let's connect, collaborate, and create something extraordinary together!*  
-> *代码改变世界 · Code changes the world*
+> *代码改变世界 · Code changes the world, not the passion in my heart*
 
 <br/>
 
