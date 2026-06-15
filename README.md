@@ -43,8 +43,7 @@ const Chet = {
   role:        "Full-Stack Developer",
 
   currentWork: [
-    "KASSAR API", "MPTC API",
-    "ANT API",    "MPTC FARMIS"
+    "Love You API"
   ],
 
   learning:    ["Next.js", "React.js"],
