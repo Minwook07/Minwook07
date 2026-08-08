@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=王子豪%20%7C%20Wu%20Chen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Chet%20·%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
 
-안녕하세요 👋 &nbsp;|&nbsp; 你好 &nbsp;|&nbsp; Hello
+Hello
 
 <br/>
 
@@ -50,7 +50,7 @@ const Chet = {
   expertise:   ["Vue.js ", "Laravel"],
 
   funFact:     "I'm a ghost teller",
-  quote:       "ជានិស្យ័យបណ្តាលឱ្យយើងជួបគ្នា!",
+  quote:       "If fate defies me, I defy fate. If that requires a devil.𝓘𝓒𝓱𝓮𝓽𝔀𝓲𝓵𝓵𝓫𝓮.",
 };
 ```
 
@@ -69,7 +69,7 @@ const Chet = {
 <div align="center">
   <h3><strong>结语 · Final Words</strong></h3>
 
-> *ជានិស្ស័យបណ្ដាលឱ្យយើងជួបគ្នា!*  
+> *If fate defies me, I defy fate. If that requires a devil.𝓘𝓒𝓱𝓮𝓽𝔀𝓲𝓵𝓵𝓫𝓮.*  
 > *Let's connect, collaborate, and create something extraordinary together!*  
 > *代码改变世界 · Code changes the world, not the passion in my heart*
 
