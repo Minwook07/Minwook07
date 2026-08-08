@@ -9,7 +9,6 @@ Hello
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-E60026?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chet-portfolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mith-chet-ab56b5295/)
-  [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 
 </div>
 
@@ -64,17 +63,4 @@ const Chet = {
 <div align="center">
   <h3><strong>技术栈 · Tech Stack</strong></h3>
   <img src="https://skillicons.dev/icons?i=vue,react,nextjs,laravel,php,mysql,git&theme=dark&perline=8" alt="Skills"/>
-</div>
-
-<div align="center">
-  <h3><strong>结语 · Final Words</strong></h3>
-
-> *If fate defies me, I defy fate. If that requires a devil.𝓘𝓒𝓱𝓮𝓽𝔀𝓲𝓵𝓵𝓫𝓮.*  
-> *Let's connect, collaborate, and create something extraordinary together!*  
-> *代码改变世界 · Code changes the world, not the passion in my heart*
-
-<br/>
-
-<img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100" alt="loading"/>
-
 </div>
